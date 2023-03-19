@@ -1,0 +1,85 @@
+*{
+    /* background-image: url(background\ image.jpg); */
+    background-image: linear-gradient(to left, rgba(155, 103, 103, 0), rgba(255,0,0,1));
+    background-color: whitesmoke;
+    font-style: inherit;
+    font-family: cursive;
+}
+
+#fry{
+    margin-top: 10px;
+    padding:30px;
+    border: 10px;
+    border-radius: 20px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    
+    margin-left: 650px;
+
+}
+
+.titlecard{
+    background-color: aqua;
+    width: 280px;
+    margin-left: 650px;
+    border-radius: 5px;
+}
+
+.title{
+    display: inline;
+    margin-left: 100px;
+    margin-top: 0px;
+    
+}
+
+.list{
+    list-style: none;
+}
+.menucard{
+    margin-left: 690px;
+    width: 200px;
+    border-radius: 7px;
+}
+.momos{
+    margin-left: 200px;
+    padding: 30px;
+    border: 10px;
+    border-radius: 20px;
+    
+    
+}
+
+.fries{
+    margin: 30px;
+    margin-left: 400px;
+    padding: 30px;
+    border: 10px;
+    border-radius: 20px;
+    
+}
+.special{
+    margin: 30px;
+    margin-left: 600px;
+    padding: 30px;
+    border: 10px;
+    border-radius: 20px;
+}
+.veg-items{
+    margin: 30px;
+    margin-left: 800px;
+    padding: 30px;
+    border: 10px;
+    border-radius: 20px;
+}
+.navbar{
+    margin-left: 550px;
+    background-color: aliceblue;
+    height: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    
+    display: inline-block;
+}
